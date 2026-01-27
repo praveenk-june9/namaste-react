@@ -1,0 +1,33 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "license": "ISC",
+  "author": "Praveen",
+  "type": "commonjs",
+  "description": "Namaste react tutorial",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "namaste-react",
+    "react-course"
+  ],
+  "homepage": "https://github.com/praveenk-june9/namaste-react#readme",
+  "bugs": {
+    "url": "https://github.com/praveenk-june9/namaste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenk-june9/namaste-react.git"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "browersList": ["last 2 versions"]
+}
